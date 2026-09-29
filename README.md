@@ -260,3 +260,8 @@ The design constraint driving every decision above: **build for the student who
 currently has the least access.** That student is on a campus with unreliable Wi-Fi,
 paying for mobile data by the gigabyte, and cannot upload their lectures to a server in
 another country. On-device inference is what makes the tool reach them.
+
+
+This attachment below is a working Demo of StudySnap
+
+<img width="1917" height="1137" alt="SnapStudy demo" src="https://github.com/user-attachments/assets/d02f551b-32ed-4735-8c33-532a71ff5dd2" />
