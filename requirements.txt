@@ -1,0 +1,14 @@
+# StudySnap — core pipeline runs with zero dependencies.
+# Everything below is optional and only needed for the paths noted.
+
+# --- Real lecture audio (speech-to-text) ---
+# faster-whisper>=1.0.0
+
+# --- Qualcomm AI Hub: compile + profile models for Snapdragon NPU ---
+# qai-hub>=0.20.0
+# qai-hub-models>=0.30.0
+
+# --- Only if you extend the app with a full local LLM ---
+# torch>=2.2.0
+# transformers>=4.40.0
+# onnxruntime>=1.17.0
