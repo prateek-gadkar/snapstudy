@@ -104,24 +104,8 @@ per-layer NPU/CPU execution split.
 
 ## Measured NPU performance
 
-> ⚠️ **Fill this in from your own run — do not paste estimated figures.**
->
-> Run `python qualcomm_npu.py --device "Snapdragon X Elite CRD"` and paste the real
-> output from the Hub profile job below.
-
-| Metric | Value |
-|---|---|
-| Target device | *e.g. Snapdragon X Elite CRD* |
-| Model | Whisper-Small |
-| Compile job ID | *from Hub* |
-| Profile job ID | *from Hub* |
-| Inference latency | *from Hub* |
-| Peak memory | *from Hub* |
-| Compute unit | *NPU / CPU / mixed — from Hub* |
-
-If you have not run the profile job, **delete this table** and replace it with a note
-that the models are compiled but the profile job is pending. An empty honest section
-beats a fabricated one — judges can see whether your job IDs resolve on the Hub.
+> Models are submitted for compilation; profiling on
+device pending.
 
 ---
 
